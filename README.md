@@ -1,4 +1,4 @@
 # apnacollege-demo
  This is my second git repository 
  <br>
- Author-Kishan kumar
+ Author-Kishan (apna college)
